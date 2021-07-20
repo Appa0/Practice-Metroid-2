@@ -1,5 +1,6 @@
 {
   "resources": [
+    {"id":{"name":"TEST","path":"objects/TEST/TEST.yy",},"order":5,},
     {"id":{"name":"SamusSpiderL","path":"sprites/SamusSpiderL/SamusSpiderL.yy",},"order":10,},
     {"id":{"name":"SamusSpinR","path":"sprites/SamusSpinR/SamusSpinR.yy",},"order":4,},
     {"id":{"name":"SamusRunR","path":"sprites/SamusRunR/SamusRunR.yy",},"order":2,},

@@ -1,5 +1,4 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-varSex = "gay"
-varSex = "mmmmmyeagh"
+gravity = 5
